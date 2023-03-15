@@ -1,0 +1,75 @@
+{
+  "graphicLayer": {
+    "items": {
+      "type": "GraphicGroup",
+      "id": "b12f92c4-f3ee-45e0-88c7-60299bc97173",
+      "name": "123",
+      "children": [
+        {
+          "type": "JBPointGraphic",
+          "id": "246a8960-fc35-4c8a-9778-f85fb249b879",
+          "name": "警报控制中心",
+          "visible": true,
+          "isEditing": false,
+          "color": "rgba(208, 2, 27, 0)",
+          "size": 30,
+          "rotation": 0,
+          "dirty": false,
+          "strokeColor": "#D0021B",
+          "strokeWidth": 1,
+          "renderMode": "BILLBOARD",
+          "textOffset": {
+            "x": 0,
+            "y": -40
+          },
+          "imageOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "textFont": "sans-serif",
+          "textSize": 20,
+          "textColor": "#F8E71C",
+          "textBackgroundColor": "transparent",
+          "textScale": 1,
+          "height": 0,
+          "flagText": "",
+          "flagTextSize": 90,
+          "flagTextSpace": 10,
+          "flagTextFont": "黑体",
+          "flagTextColor": "#F8E71C",
+          "flagTextBgColor": "rgba(208, 2, 27, 0)",
+          "trailLineShow": false,
+          "trailLineColor": "#D0021B",
+          "trailLineWidth": 2,
+          "enableTrailDrag": true,
+          "flagInnerStrokeWidth": 0,
+          "flagInnerStrokeColor": "transparent",
+          "code": "10-43400-0",
+          "text": "",
+          "position": [
+            99.89858624844986,
+            31.999053575293843,
+            0.5
+          ]
+        }
+      ]
+    },
+    "binds": []
+  },
+  "actionLayer": {
+    "baseTime": "2022/12/23 11:15:41",
+    "actionGroups": [
+      {
+        "actions": []
+      }
+    ]
+  },
+  "viewPoint": {
+    "lon": 99.89858624844993,
+    "lat": 31.999053575293843,
+    "alt": 10000.499999999856,
+    "heading": 360,
+    "pitch": -90,
+    "roll": 0
+  }
+}
